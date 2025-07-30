@@ -1,0 +1,14 @@
+{
+    "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
+    "name": "whitemaneeditor",
+    "version": "0.1.0",
+    "dependencies": [
+		"boost-system",
+		"boost-thread",
+		"boost-asio",
+		"boost-program-options",
+		"openssl",
+		"ms-gsl"
+    ],
+    "builtin-baseline": "782ccc18d8b819cdef6794a6c03eb3d9f7cd04aa"
+}
